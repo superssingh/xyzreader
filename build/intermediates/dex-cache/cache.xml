@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_be525f79f3dc2274766ddde7b71195830d4665fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_a22eb7428b8acafd79211c7c26877d9ffd6dfe94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_dd7a973f8e9ecb2c8cec5a2fa990c3cbe7e08ef1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_19a2b03a421ec362cda8b3c6dcc4334d928043e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1dfd42bcb6c88e11935f303d596869930f1f7057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8058bca12ab2da28e337f987e4090789d4e53d6f">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_57855501a7a223e8190601bb33ce23bbb21bff79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f10e2cd06cac5c9678e27d582a5a560a94b5063e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cca34395204627d919551d4f85586f2b86e5925d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ea971c67817361c52bbf18c299482114db3bb271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_24e843a7e615224d6b485574f1342bde23efe48c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_63bbdb39cf6806201f98af8c5a05dbf42f90f081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_33c1f70c7c8387826f5934c3bdc2b8eb72792c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_3ede67d80cfe7d8ba5ea09c913c6ecb108511d28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_6776e76c573f08b3ecbe98f6fb80978a914591ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_c861bab19cf4bae24962eee790987a3b29439434\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_a22eb7428b8acafd79211c7c26877d9ffd6dfe94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_bd5adbe13f28c3c07eb6ab201b6f3247509ac769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e98a9812914d5cb425b491593554e2904e737758">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0bca62d50c53eaaaf2dddd53a7104f844c490497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.0.0_e982235415364fe0b809acebcd3daa1d1eec7455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_bd5adbe13f28c3c07eb6ab201b6f3247509ac769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6c2f763b6149be826b566e51ebfca14b8c0ad771\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_6d4040dff25cf2030d5cf5bf8269831122c2aa2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_b4d292ff5ec1e060e1d698fbda093a52d9ce7b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_5f32f747811b7cb0e338dea0b6e432981fa94472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_33c1f70c7c8387826f5934c3bdc2b8eb72792c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_dffb24d3630c9102ead8547679d1a38b8be26d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.0.0_1e4b60684bdb4f2185afceedf8eba03397798ef3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_8327660ef59de719b83930ff0d79cdfc798b1e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_4e963f895c04b2cf25c7f22400a1d92f87295b02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_a5b3ef702c2d47d50e735c513f3babd438dfb8d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="18d25c2209bbec02aaf732373e0d040ace6cc069">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0bca62d50c53eaaaf2dddd53a7104f844c490497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1da4fc57ca435b6d42c08628d8d5504a47b61648">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_57855501a7a223e8190601bb33ce23bbb21bff79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bd7d74086544fa3725edaf9392ae02ce7efb9aa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_51d2dce76e9825fe304351d1241a1c98ee5d7245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Santosh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1dfd42bcb6c88e11935f303d596869930f1f7057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6c2f763b6149be826b566e51ebfca14b8c0ad771\classes.dex" />
+    </item>
+
+</items>

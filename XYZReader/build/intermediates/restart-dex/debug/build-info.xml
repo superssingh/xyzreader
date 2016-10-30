@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="24079310978972"
+    token="6536151023702782523"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="15934353541944"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="24079310978972"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
