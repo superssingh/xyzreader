@@ -227,15 +227,10 @@ public class ArticleListActivity extends ActionBarActivity implements
                                         });
                             }
 
-//                            Palette palette = Palette.generate(bitmap);
-//                            int defaultColor = 0xFF333333;
-//                            int color = palette.getDarkMutedColor(defaultColor);
-//                            holder.itemView.setBackgroundColor(color);
                             return false;
                         }
                     })
                     .into(holder.thumbnailView);
-
 
         }
 

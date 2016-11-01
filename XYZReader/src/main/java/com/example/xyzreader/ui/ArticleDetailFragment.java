@@ -161,7 +161,7 @@ public class ArticleDetailFragment extends Fragment implements
                                         .generate(new Palette.PaletteAsyncListener() {
                                             @Override
                                             public void onGenerated(Palette palette) {
-                                                Palette.Swatch vibrantSwatch = palette.getVibrantSwatch();
+                                                Palette.Swatch vibrantSwatch = palette.getDominantSwatch();
                                                 if (vibrantSwatch != null) {
                                                     bylineView.setBackgroundColor(vibrantSwatch.getRgb());
                                                     bylineView.setTextColor(vibrantSwatch.getTitleTextColor());
