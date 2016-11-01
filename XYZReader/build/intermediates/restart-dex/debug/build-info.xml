@@ -5,7 +5,7 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="93828055222809"
+    timestamp="96321183701514"
     token="6536151023702782523"
     verifier="COMPATIBLE" >
 
@@ -34,21 +34,21 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="92986464220662"
-        verifier="FIELD_REMOVED" >
+        timestamp="94694719595908"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="94729368157107"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="93433433611305"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\builds\debug\93433433611305\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="93828055222809"
+        timestamp="96321183701514"
         verifier="COMPATIBLE" >
         <artifact
             location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"

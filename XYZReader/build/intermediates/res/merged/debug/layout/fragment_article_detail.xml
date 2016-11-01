@@ -4,7 +4,7 @@
     android:id="@+id/base"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ced9d9"
+    android:background="#b4aeae"
     android:fitsSystemWindows="true">
 
     <android.support.design.widget.AppBarLayout
