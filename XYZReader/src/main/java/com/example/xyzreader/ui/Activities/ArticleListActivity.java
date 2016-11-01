@@ -212,10 +212,25 @@ public class ArticleListActivity extends ActionBarActivity implements
                                                        Target<GlideDrawable> target,
                                                        boolean isFromMemoryCache, boolean isFirstResource) {
                             Bitmap bitmap = ((GlideBitmapDrawable) resource.getCurrent()).getBitmap();
-                            Palette palette = Palette.generate(bitmap);
-                            int defaultColor = 0xFF333333;
-                            int color = palette.getDarkMutedColor(defaultColor);
-                            holder.itemView.setBackgroundColor(color);
+                            if (bitmap != null) {
+                                Palette.from(bitmap)
+                                        .generate(new Palette.PaletteAsyncListener() {
+                                            @Override
+                                            public void onGenerated(Palette palette) {
+                                                Palette.Swatch vibrantSwatch = palette.getDominantSwatch();
+                                                if (vibrantSwatch != null) {
+                                                    holder.itemView.setBackgroundColor(vibrantSwatch.getRgb());
+                                                    holder.titleView.setTextColor(vibrantSwatch.getBodyTextColor());
+                                                    holder.subtitleView.setTextColor(vibrantSwatch.getTitleTextColor());
+                                                }
+                                            }
+                                        });
+                            }
+
+//                            Palette palette = Palette.generate(bitmap);
+//                            int defaultColor = 0xFF333333;
+//                            int color = palette.getDarkMutedColor(defaultColor);
+//                            holder.itemView.setBackgroundColor(color);
                             return false;
                         }
                     })
