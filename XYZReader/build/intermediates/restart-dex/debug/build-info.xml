@@ -5,26 +5,26 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="92986464220662"
+    timestamp="93828055222809"
     token="6536151023702782523"
-    verifier="FIELD_REMOVED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="362" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="89" />
+        duration="0" />
     <task
         name="verifier"
-        duration="52" />
+        duration="0" />
 
     <artifact
-        location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
-        type="DEX" />
+        location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="92748034169086"
@@ -39,6 +39,20 @@
         <artifact
             location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="93433433611305"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\builds\debug\93433433611305\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="93828055222809"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
