@@ -165,7 +165,7 @@ public class ArticleDetailFragment extends Fragment implements
                                                 if (vibrantSwatch != null) {
                                                     bylineView.setBackgroundColor(vibrantSwatch.getRgb());
                                                     bylineView.setTextColor(vibrantSwatch.getTitleTextColor());
-                                                    coordinatorLayout.setBackgroundColor(vibrantSwatch.getBodyTextColor());
+                                                    coordinatorLayout.setBackgroundColor(vibrantSwatch.getTitleTextColor());
                                                 }
                                             }
                                         });
