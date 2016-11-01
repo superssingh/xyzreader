@@ -9,7 +9,8 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="appbar_height">112dp</dimen>
     <dimen name="detail_body_margin">16dp</dimen>
-    <dimen name="logo_margin">16dp</dimen>
-    <dimen name="logo_padding">20dp</dimen>
+    <dimen name="logo_margin">10dp</dimen>
+    <dimen name="logo_padding">10dp</dimen>
+    <dimen name="recycleview">10dp</dimen>
 
 </resources>
