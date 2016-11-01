@@ -11,6 +11,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.Snackbar;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.graphics.Palette;
 import android.support.v7.widget.Toolbar;
@@ -23,7 +24,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
@@ -174,7 +174,9 @@ public class ArticleDetailFragment extends Fragment implements
 
                         @Override
                         public void onError() {
-                            Toast.makeText(getActivity(), "Error on image load.", Toast.LENGTH_SHORT).show();
+                            Snackbar snackbar = Snackbar
+                                    .make(coordinatorLayout, "Error on image load.", Snackbar.LENGTH_LONG);
+                            snackbar.show();
                         }
                     });
 
