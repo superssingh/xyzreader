@@ -5,63 +5,40 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="92119682725424"
+    timestamp="92986464220662"
     token="6536151023702782523"
-    verifier="COMPATIBLE" >
+    verifier="FIELD_REMOVED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="362" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="89" />
     <task
         name="verifier"
-        duration="0" />
+        duration="52" />
 
     <artifact
-        location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="89992624634844"
+        timestamp="92748034169086"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="90556241076367"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
+        timestamp="92986464220662"
+        verifier="FIELD_REMOVED" >
         <artifact
             location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
             type="DEX" />
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="91318980467939"
-        verifier="FIELD_ADDED" >
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="92119682725424"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

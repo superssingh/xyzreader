@@ -13,7 +13,6 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.CoordinatorLayout;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.graphics.Palette;
-import android.support.v7.widget.CardView;
 import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.text.format.DateUtils;
@@ -70,13 +69,11 @@ public class ArticleDetailFragment extends Fragment implements
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         if (getArguments().containsKey(ARG_ITEM_ID)) {
             mItemId = getArguments().getLong(ARG_ITEM_ID);
         }
 
         setHasOptionsMenu(true);
-
     }
 
     public ArticleDetailActivity getActivityCast() {
@@ -99,18 +96,16 @@ public class ArticleDetailFragment extends Fragment implements
                              Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
 
-        Imagebar = (ImageView) mRootView.findViewById(R.id.ImageBar);
         collapsingToolbarLayout = (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
         collapsingToolbarLayout.setExpandedTitleTextAppearance(R.style.ExpandedAppBar);
         collapsingToolbarLayout.setCollapsedTitleTextAppearance(R.style.CollapsedAppBar);
-        toolBar = (Toolbar) mRootView.findViewById(R.id.toolbar);
-//        getActivityCast().setSupportActionBar(toolBar);
+        Imagebar = (ImageView) mRootView.findViewById(R.id.ImageBar);
 
+        toolBar = (Toolbar) mRootView.findViewById(R.id.toolbar);
         toolBar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 getActivity().finish();
-
             }
         });
 
@@ -132,7 +127,7 @@ public class ArticleDetailFragment extends Fragment implements
         if (mRootView == null) {
             return;
         }
-        final CardView cardView = (CardView) mRootView.findViewById(R.id.body_cardView);
+
         final TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
         final CoordinatorLayout coordinatorLayout = (CoordinatorLayout) mRootView.findViewById(base);
         bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
@@ -167,16 +162,11 @@ public class ArticleDetailFragment extends Fragment implements
                                             @Override
                                             public void onGenerated(Palette palette) {
                                                 Palette.Swatch vibrantSwatch = palette.getVibrantSwatch();
-//                                                Palette.Swatch darkMutedSwatch = palette.getMutedSwatch();
-
                                                 if (vibrantSwatch != null) {
                                                     bylineView.setBackgroundColor(vibrantSwatch.getRgb());
                                                     bylineView.setTextColor(vibrantSwatch.getTitleTextColor());
-//                                                    bodyView.setTextColor(darkMutedSwatch.getBodyTextColor());
-//                                                    cardView.setBackgroundColor(darkMutedSwatch.getRgb());
                                                     coordinatorLayout.setBackgroundColor(vibrantSwatch.getBodyTextColor());
                                                 }
-
                                             }
                                         });
                             }

@@ -1,37 +1,36 @@
-<android.support.design.widget.CoordinatorLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/base"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/gray"
-    android:id="@+id/base"
     android:fitsSystemWindows="true">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        app:elevation="4dp"
+        android:fitsSystemWindows="true"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-        android:fitsSystemWindows="true">
+        app:elevation="4dp">
 
-        <include layout="@layout/custom_toolbar"/>
+        <include layout="@layout/custom_toolbar" />
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/body_content"/>
+    <include layout="@layout/body_content" />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/share_fab"
-        android:layout_margin="@dimen/fab_margin"
-        app:layout_anchor="@id/app_bar_layout"
-        app:layout_anchorGravity="bottom|end"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:elevation="4dp"
+        android:layout_margin="@dimen/fab_margin"
         android:contentDescription="@string/action_share"
+        android:elevation="4dp"
         android:src="@drawable/ic_share"
+        app:layout_anchor="@id/app_bar_layout"
+        app:layout_anchorGravity="bottom|end"
         tools:targetApi="lollipop" />
 
 </android.support.design.widget.CoordinatorLayout>
