@@ -160,7 +160,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e98a9812914d5cb425b491593554e2904e737758">
+        sha1="4988c4d2d66b63f12b24a6cb85b1e7ddcc8b11d5">
         <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0bca62d50c53eaaaf2dddd53a7104f844c490497\classes.dex" />
     </item>
     <item
@@ -286,7 +286,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="1da4fc57ca435b6d42c08628d8d5504a47b61648">
+        sha1="7b437d4bad8b43148b5b5271ec56d79b76f97923">
         <dex dex="F:\Android\Android Nanodegree Course Projects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_57855501a7a223e8190601bb33ce23bbb21bff79\classes.dex" />
     </item>
     <item

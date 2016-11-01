@@ -168,6 +168,10 @@
         "source": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\body_content.xml",
+        "source": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\src\\main\\res\\layout\\body_content.xml"
+    },
+    {
         "merged": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -178,6 +182,10 @@
     {
         "merged": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toolbar.xml",
+        "source": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\src\\main\\res\\layout\\custom_toolbar.xml"
     },
     {
         "merged": "F:\\Android\\Android Nanodegree Course Projects\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",

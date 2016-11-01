@@ -33,6 +33,7 @@
     <color name="theme_primary_dark">#024112</color>
     <color name="theme_accent">#08a933</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="white">#ffffff</color>
 
 </resources>
 
