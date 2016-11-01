@@ -42,15 +42,13 @@ public class ArticleDetailFragment extends Fragment implements
         LoaderManager.LoaderCallbacks<Cursor> {
     public static final String ARG_ITEM_ID = "item_id";
     private static final String TAG = "ArticleDetailFragment";
+    CoordinatorLayout coordinatorLayout;
     private Cursor mCursor;
     private long mItemId;
     private View mRootView;
-
-
     private CollapsingToolbarLayout collapsingToolbarLayout;
     private ImageView Imagebar;
     private Toolbar toolBar;
-
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
      * fragment (e.g. upon screen orientation changes).
@@ -95,7 +93,7 @@ public class ArticleDetailFragment extends Fragment implements
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         mRootView = inflater.inflate(R.layout.fragment_article_detail, container, false);
-
+        coordinatorLayout = (CoordinatorLayout) mRootView.findViewById(base);
         collapsingToolbarLayout = (CollapsingToolbarLayout) mRootView.findViewById(R.id.collapsing_toolbar);
         collapsingToolbarLayout.setExpandedTitleTextAppearance(R.style.ExpandedAppBar);
         collapsingToolbarLayout.setCollapsedTitleTextAppearance(R.style.CollapsedAppBar);
@@ -129,7 +127,6 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         final TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
-        final CoordinatorLayout coordinatorLayout = (CoordinatorLayout) mRootView.findViewById(base);
         bodyView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
         final TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
         bylineView.setTypeface(Typeface.createFromAsset(getResources().getAssets(), "Roboto-Regular.ttf"));
@@ -165,7 +162,7 @@ public class ArticleDetailFragment extends Fragment implements
                                                 if (vibrantSwatch != null) {
                                                     bylineView.setBackgroundColor(vibrantSwatch.getRgb());
                                                     bylineView.setTextColor(vibrantSwatch.getTitleTextColor());
-                                                    coordinatorLayout.setBackgroundColor(vibrantSwatch.getTitleTextColor());
+                                                    coordinatorLayout.setBackgroundColor(vibrantSwatch.getPopulation());
                                                 }
                                             }
                                         });
